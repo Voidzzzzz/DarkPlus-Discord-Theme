@@ -11,7 +11,7 @@
 
 # User customization
 - **Home icon**
-- **Colors**
+- **Colors!**
 
 # My Other Themes
 - **[Ocean](https://betterdiscord.app/theme/Ocean)**
